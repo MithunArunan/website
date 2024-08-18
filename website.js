@@ -25,7 +25,7 @@ const SLUG_TO_PAGE = {
 };
 
 /* Step 3: enter your page title and description for SEO purposes */
-  const PAGE_TITLE = 'Mithun website';
+  const PAGE_TITLE = '';
   const PAGE_DESCRIPTION = 'Life stories, learnings, achievements, aspirations etc.';
 
 /* Step 4: enter a Google Font name, you can choose from https://fonts.google.com */
